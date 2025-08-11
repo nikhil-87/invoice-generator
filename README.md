@@ -4,8 +4,8 @@ A small internal tool to create and preview invoices before sending to clients. 
 
 ## Links
 
-- Live Demo: https://your-live-link-here
-- GitHub Repository: https://github.com/your-username/your-repo
+- Live Demo: https://invoice-generator-five-mu.vercel.app
+- GitHub Repository: https://github.com/nikhil-87/invoice-generator
 
 Replace the above with your actual links.
 
@@ -47,10 +47,6 @@ Bonus
 
 - npm install
 - npm run dev
-
-Build & Preview
-- npm run build
-- npm run preview
 
 ## Notes
 
